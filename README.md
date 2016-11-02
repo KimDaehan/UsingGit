@@ -1,6 +1,7 @@
 # git/github 입문
 ## git 입문했어요!
-<img scr = "https://octodex.github.com/images/welcometocat.png" height ="300">
+
+<img scr = "https://octodex.github.com/images/welcometocat.png" height = "200">
 
 
 
